@@ -18,10 +18,10 @@ tf.reset_default_graph()
 #%% Load directory containing trained model and set other parameters
 ########################ksponly_jwxjwy_axial_sos####################################
 subDirectory='10Jul_0305pm_6400I_100E_1B10K'
-nImg=256*10
-dispind=110
+nImg=2
+dispind=0
 sigma=1e4 # add noise
-#%%Read the testing data from dataset.hdf5 file
+#%%Read test dataset
 
 _,tstOrg,tstA,tstjwx,tstjwy,tstmask,minv=sf.getTstDatag(nImg,sigma)
 #%% Load existing model and feed with test data
