@@ -19,8 +19,8 @@ tf.reset_default_graph()
 #%% Load directory containing trained model and set other parameters
 ########################ksponly_jwxjwy_axial_sos####################################
 subDirectory='11Jul_1155am_6400I_100E_1B10K'
-nImg=256*10
-dispind=110
+nImg=2
+dispind=0
 sigma=1e4 # add noise
 #%%Read the testing data 
 
