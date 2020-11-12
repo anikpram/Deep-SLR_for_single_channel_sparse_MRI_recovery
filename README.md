@@ -1,2 +1,2 @@
-# Deep-SLR_for_sparse_single_channel_MRI_recovery
+# OMoDL: Off-The-Grid Model Based Deep Learning
  
