@@ -7,7 +7,7 @@ Created on Thu Oct  1 17:43:01 2020
 """
 
 """
-Creating OMoDL model to be trained.
+Creating OMODL model to be trained.
 """
 
 
