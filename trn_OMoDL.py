@@ -16,7 +16,7 @@ import tensorflow as tf
 from datetime import datetime
 from tqdm import tqdm
 import data_processing_functions as sf
-import OMoDL as mm
+import OMODL as mm
 import scipy as sp
 from scipy.io import savemat
 tf.reset_default_graph()
