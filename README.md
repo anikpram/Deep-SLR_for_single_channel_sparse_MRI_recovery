@@ -1,2 +1,2 @@
-# OMoDL: Off-The-Grid Model Based Deep Learning
+# OMODL: Off-The-Grid Model Based Deep Learning
  
