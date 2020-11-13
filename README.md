@@ -15,4 +15,4 @@ The network solves for two variables by alternating between
 1. It outperforms strutured low-rank (SLR) methods in terms of performance in SNR.
 
 2. It is three orders of magnitude faster than SLR methods.
-<img src="time_complexity.png"  title="hover text">
+<img src="time_complexity.png"  title="hover text" width="600px">
