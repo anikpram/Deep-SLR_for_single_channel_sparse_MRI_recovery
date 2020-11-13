@@ -5,3 +5,4 @@ OMODL is a model based off-the grid image reconstruction algorithm using deep le
 Pramanik, Aniket, Hemant Aggarwal, and Mathews Jacob, "Off-The-Grid Model Based Deep Learning (O-MODL)", 2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI). https://ieeexplore.ieee.org/document/8759403 
  
 ## Recursive OMODL Network
+<img src="omodl.png"  title="hover text">
