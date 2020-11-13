@@ -8,4 +8,4 @@ Pramanik, Aniket, Hemant Aggarwal, and Mathews Jacob, "Off-The-Grid Model Based 
 <img src="omodl.png"  title="hover text">
 
 The network solves for two variables by alternating between
-<img src="alternating_steps.png"  title="hover text">
+<img src="alternating_steps.png"  title="hover text" width="450px">
