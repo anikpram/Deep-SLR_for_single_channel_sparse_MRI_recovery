@@ -29,7 +29,7 @@ A testing dataset is uploaded as test_2_img_axial.npy which consists of two axia
 
 ### Description of Python scripts
 
-```trn_OMODL.py``` : It is the training code for single-channel sparse MRI recovery. The H-DSLR model is trained on 25 subjects with single-channel brain slices described above.
+```trn_OMODL.py``` : It is the training code for single-channel sparse MRI recovery. The OMODL model is trained on 25 subjects with single-channel brain slices described above.
 
 ```tst_OMODL.py``` : It is the code for testing a pre-trained model on the test dataset uploaded as test_2_img_axial.npy. The pre-trained model is inside the directory 'savedModels'. This is meant for Single-channel Sparse MRI recovery. 
 
