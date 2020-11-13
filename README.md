@@ -6,3 +6,6 @@ Pramanik, Aniket, Hemant Aggarwal, and Mathews Jacob, "Off-The-Grid Model Based 
  
 ## Recursive OMODL Network
 <img src="omodl.png"  title="hover text">
+
+The network solves for two variables by alternating between
+<img src="alternating_steps.png"  title="hover text">
