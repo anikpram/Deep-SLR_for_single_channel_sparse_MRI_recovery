@@ -16,3 +16,5 @@ The network solves for two variables by alternating between
 
 2. It is three orders of magnitude faster than SLR methods.
 <img src="time_complexity.png"  title="hover text" width="600px">
+
+## Code Details
